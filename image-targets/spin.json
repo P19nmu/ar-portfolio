@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 125,
+    "width": 754,
+    "height": 1006,
+    "isRotated": false,
+    "originalWidth": 1006,
+    "originalHeight": 1006
+  },
+  "imagePath": "image-targets/spin_luminance.png",
+  "metadata": null,
+  "name": "spin",
+  "resources": {
+    "originalImage": "spin_original.png",
+    "croppedImage": "spin_cropped.png",
+    "thumbnailImage": "spin_thumbnail.png",
+    "luminanceImage": "spin_luminance.png"
+  },
+  "created": 1782701604948,
+  "updated": 1782701604948
+}

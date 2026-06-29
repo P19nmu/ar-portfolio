@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "imagePath": "image-targets/audio_luminance.png",
+  "metadata": null,
+  "name": "audio",
+  "resources": {
+    "originalImage": "audio_original.png",
+    "croppedImage": "audio_cropped.png",
+    "thumbnailImage": "audio_thumbnail.png",
+    "luminanceImage": "audio_luminance.png"
+  },
+  "created": 1782701582834,
+  "updated": 1782701582834
+}

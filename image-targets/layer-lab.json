@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 33,
+    "width": 1012,
+    "height": 1350,
+    "isRotated": false,
+    "originalWidth": 1080,
+    "originalHeight": 1350
+  },
+  "imagePath": "image-targets/layer-lab_luminance.png",
+  "metadata": null,
+  "name": "layer-lab",
+  "resources": {
+    "originalImage": "layer-lab_original.png",
+    "croppedImage": "layer-lab_cropped.png",
+    "thumbnailImage": "layer-lab_thumbnail.png",
+    "luminanceImage": "layer-lab_luminance.png"
+  },
+  "created": 1782701593931,
+  "updated": 1782701593931
+}

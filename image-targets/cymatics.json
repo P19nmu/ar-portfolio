@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "imagePath": "image-targets/cymatics_luminance.png",
+  "metadata": null,
+  "name": "cymatics",
+  "resources": {
+    "originalImage": "cymatics_original.png",
+    "croppedImage": "cymatics_cropped.png",
+    "thumbnailImage": "cymatics_thumbnail.png",
+    "luminanceImage": "cymatics_luminance.png"
+  },
+  "created": 1782701590862,
+  "updated": 1782701590862
+}

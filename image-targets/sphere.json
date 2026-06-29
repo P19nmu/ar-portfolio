@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "imagePath": "image-targets/sphere_luminance.png",
+  "metadata": null,
+  "name": "sphere",
+  "resources": {
+    "originalImage": "sphere_original.png",
+    "croppedImage": "sphere_cropped.png",
+    "thumbnailImage": "sphere_thumbnail.png",
+    "luminanceImage": "sphere_luminance.png"
+  },
+  "created": 1782701602473,
+  "updated": 1782701602473
+}

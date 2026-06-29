@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "imagePath": "image-targets/wall_luminance.png",
+  "metadata": null,
+  "name": "wall",
+  "resources": {
+    "originalImage": "wall_original.png",
+    "croppedImage": "wall_cropped.png",
+    "thumbnailImage": "wall_thumbnail.png",
+    "luminanceImage": "wall_luminance.png"
+  },
+  "created": 1782701610667,
+  "updated": 1782701610667
+}

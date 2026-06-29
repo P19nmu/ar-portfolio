@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 44,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1528
+  },
+  "imagePath": "image-targets/brand-manual_luminance.png",
+  "metadata": null,
+  "name": "brand-manual",
+  "resources": {
+    "originalImage": "brand-manual_original.png",
+    "croppedImage": "brand-manual_cropped.png",
+    "thumbnailImage": "brand-manual_thumbnail.png",
+    "luminanceImage": "brand-manual_luminance.png"
+  },
+  "created": 1782701587934,
+  "updated": 1782701587934
+}
